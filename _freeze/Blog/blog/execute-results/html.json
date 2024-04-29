@@ -1,0 +1,14 @@
+{
+  "hash": "188b3487d4935caac6990a651a87fd70",
+  "result": {
+    "markdown": "---\nlayout: page\ntitle: My Blog\nexcerpt: \nexecute:\n  freeze: true  # never re-render during project render\nengine: knitr \nresources:\n  - \"\"\ncv:\n  pdf: \"\"\n---\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

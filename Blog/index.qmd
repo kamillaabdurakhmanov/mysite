@@ -1,0 +1,46 @@
+---
+title: "Blog"
+---
+
+## A Closer Look: "How to be a Modern Scientist" by Jeffrey Leek
+
+### April 29, 2024
+
+----
+
+As a student who is just starting off her career in biostatistics, Leek's opinions on how to build a name for yourself in the modern-day scientific world have greatly contributed to my understanding of the resources available that would expedite the process in finding success. In this blog, I would like to review and insert my own opinion into the most important methods Leek breaks down for developing one's career in science. 
+
+----
+
+#### Blogging
+
+The first time I read through "How to be a Modern Scientist" and saw an entire section recommending scientific blogs as a tool to raise your profile, I thought that I could never do it, but here I am. Part of the reason I had this first thought is that I was never one to share my opinions online in the past, especially because I know the "internet loves a fight," as Leek puts it. However after some consideration in the benefits of being able to share my opinions with the scientific community, here I am convinced. Leek makes several mentions in his book that no matter what is being said online, someone will have something negative to say, and that is just fine because the benefits of a blog outweigh the consequences, especially if you know how to handle "internet scientists". A blog can be anything you want, from sharing your current projects, to responding to the work of others. It's a great way to show yourself off through your work, or to discuss a relevant issue in the scientific community. 
+
+----
+
+#### Social Media 
+
+In relation to blogging, Leek highlights the importance in the use of social media for a career in science in the modern world. I found this section to be especially helpful for many in my generation who are building their careers alongside the massive boom in the age of social media. I believe the issue is that many people would not know where to start when using social media to highlight their careers. Leek provides a simple break down on the best ways to begin. Creating an account, identifying relevant communities, and developing a network on social media that can help share your ideas and work is what Leek recommends. This may sound like a daunting task for some people, but Leek discusses how there is no need to develop and post original content, it can be as simple as posting your opinions on the work of others or messaging someone in the community whose work you find interesting!
+
+----
+
+#### Publishing
+
+The final most important piece to Leek's book is his section on publishing. In today's world, it seems as if the best way to make yourself known in the scientific community is to have published papers with your name attached to them. Leek breaks down the publishing process from writing the paper, to having it published in the journal, including the details around having the paper be closed or open access and how to respond to criticism. I would recommend this section to anyone who has not yet published a paper and would like to learn more about the process.  
+
+----
+
+##### Reference
+
+Leek, J. T. (2016). How to be a modern scientist. Leanpub. https://leanpub.com/modernscientist
+
+
+
+
+
+
+
+
+
+
+

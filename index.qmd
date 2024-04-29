@@ -1,0 +1,24 @@
+---
+about:
+  template: jolla
+  id: about-block
+  image: "img/cwru_ID_copy.jpeg"
+  links:
+    - icon: envelope
+      text: Email
+      href: "mailto:mail.kabdurak@gmail.com"  
+---
+
+::: {#about-block}
+:::
+
+# Hello and Welcome to My Website!
+
+I am Kamilla Abdurakhmanov, a Master's student at Case Western Reserve University studying biostatistics. My research interests include infectious disease epidemiology, public health intervention programs, and clinical trial design. I currently work for the Health Resources and Services Administration as an analyst on their workforce demographic data while I am learning data science in my program right alongside my work. I created this website to provide a a method for others to get a glimpse into my interests and to get to know more about me. On this website you can find methods of contacting me, my CV, more details into my experience, as well as my blog. 
+
+
+Please feel free to [contact me](mailto:mail.kabdurak@gmail.com) if you have any questions or would like to discuss potential projects.
+
+
+
+

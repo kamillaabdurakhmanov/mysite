@@ -1,0 +1,29 @@
+---
+title: Research and Work Experience
+---
+
+## The United States Health Resources and Services Administration (HRSA)
+
+I began as a student intern with HRSA's Office of Civil Rights, Diversity, and Inclusion in 2023. As an intern, my responsibilities included the analysis of employee demographic data within all of HRSA and within each bureau as requested. I ensured the data was accurate and the analysis was thorough on the basis of race, sex, disability status, etc. These analyses were presented to the office and the bureaus that requested a look at their data in aggregate as contributions to HRSA's mission to uphold principles of diversity, equity, inclusion, and accessibility. 
+
+In September of 2023, I was proud to have taken the role as a data analyst within the office while I complete my Master's in Biostatistics at Case Western Reserve University. I use SAS and Excel to analyze demographic and complaint data. I also lead a team of 6-8 employees in taking actionable steps towards making HRSA a model EEO program. One of my team's most recent projects included the development of an internal policy review guide. 
+
+<img src="project_1_banner.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://arxiv.org/abs/2210.07278', 'blank');"/>
+
+----
+
+## DASH-Plus Hypertension Management Program for Older Adults
+
+In September of 2022, I took part as a research assistant in a hypertension management study in older adults, funded by the United States Department of Agriculture. This study was a quasi-experimental study that tests if educating older adults on the DASH-Plus diet program could aid in managing their hypertension. My role in the project included administering the surveys, while assisting and supporting participants in answering questions to ensure the accurate collection of data.
+
+----
+
+## Work-Related Musculoskeletal Disorder Hack-a-thon Challenge
+
+Towards the end of 2020, I joined a competition sponsored by the American Society of Echocardiography intended to develop interventions for musculoskeletal disorder among practicing sonographers. Musculoskeletal disorder is highly prevalent in this occupation due to the stress on the back, arms, and wrists when a sonographer is scanning patients. This project was personally close to me as my mother is a sonographer, so I jumped at the chance to contribute. During the competition, my responsibilities included the planning and implementation of a design intended to prevent muscle pain and joint pressure. I worked closely with other students who specialized in engineering and sonography to develop the design, while researching musculoskeletal disorder to develop a full intervention plan.
+
+
+
+
+
+

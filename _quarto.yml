@@ -1,0 +1,49 @@
+# This file controls the settings for your Quarto template from www.marvinschmitt.com
+
+# website settings
+website:
+  title: "Kamilla Abdurakhmanov"                                # Your name
+  description: "Personal Website"   # A brief slogan (optional)
+  image: img/cwru_ID_copy.jpeg
+  
+
+  
+  # start of the navigation bar at the top of the website
+  navbar:
+    pinned: true
+    
+    # your sub-pages
+    left:
+      - text: "Experience"
+        href: Experience/index.qmd
+      - text: "CV"
+        href: cv/index.qmd
+      - text: "Blog"
+        href: Blog/index.qmd
+    
+    # your social media handles
+    right:
+      - icon: envelope
+        aria-label: email
+        href: "mailto:mail.kabdurak@gmail.com"  
+  
+  
+
+# Don't touch unless you know what you are doing :) ------------
+  search: 
+    location: navbar
+    type: textbox
+
+project:
+  type: website
+  output-dir: docs
+
+  preview: 
+    port: 22222
+    browser: true
+    watch-inputs: true
+    navigate: true
+
+execute:
+  freeze: true
+
